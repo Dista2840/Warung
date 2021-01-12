@@ -1,7 +1,7 @@
 # WARUNG
 - Teuku Muhammad Dista (19.11.2840)
 - S1 IF 04
-program ini adalah program yang bertujuan untuk menambahkan item ke sebuah keranjang digital dan menambahkan voucher belanja
+- program ini adalah program yang bertujuan untuk menambahkan item ke sebuah keranjang digital dan menambahkan voucher belanja
 
 ## Scope of Functions
 - menambahkan barang dengan tehnik MVC 
